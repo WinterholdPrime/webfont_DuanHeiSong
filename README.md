@@ -1,5 +1,6 @@
-# webfont_DuanHeiSong
+# webfont for DuanHeiSong
 The split subsetted webfont of Chill DuanHeiSong.
+# “寒蝉端黑宋”网页字体
 
 使用方法：
 ```CSS
